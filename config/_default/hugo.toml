@@ -21,7 +21,7 @@ copyRight = "Copyright (c) 2026 Pokopia 小站"
   enable = true
 
 [outputs]
-  home = ["html", "rss", "sitemap", "searchIndex", "llms"]
+  home = ["html", "rss", "sitemap", "JSON"]
   page = ["html", "markdown"]
   section = ["html", "rss", "sitemap"]
   taxonomy = ["html", "rss", "sitemap"]
