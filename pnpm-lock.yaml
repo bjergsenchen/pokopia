@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       '@tabler/icons':
-        specifier: ^3.36.1
+        specifier: ^3.40.0
         version: 3.40.0
       '@thulite/doks-core':
         specifier: ^1.9.3
@@ -31,7 +31,7 @@ importers:
         specifier: ^0.5.2
         version: 0.5.2
       '@changesets/cli':
-        specifier: ^2.29.8
+        specifier: ^2.30.0
         version: 2.30.0
       prettier:
         specifier: ^3.8.1
