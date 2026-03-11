@@ -1,7 +1,14 @@
 // Put your custom SCSS code here
-table img {
-  aspect-ratio: 1 / 1;
+p img {
   width: 100px;
   height: 100px;
+  object-fit: contain;
+}
+
+table img, 
+.entry-content img { 
+  width: 100px;
+  height: 100px;
+  aspect-ratio: 1 / 1;
   object-fit: contain;
 }
