@@ -12,10 +12,6 @@ params:
   math: false
 ---
 
-# 寶可夢一覽表
-
-資料來源：habitat_dex_zh.csv（No.001～No.209），缺號顯示為「資料待補」。
-
 | 圖示 | 寶可夢 | 擅長事物 | 棲息地 | 稀有度 |
 | ------ | -------- | ---------- | -------- | -------- |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/001.png" > | 妙蛙種子 | 栽培 | [綠色草叢](../pokemon-habitat/#綠色草叢)<br>[綠色長椅](../pokemon-habitat/#綠色長椅) | 普通<br>普通 |
@@ -31,7 +27,7 @@ params:
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/017.png" > | 比比鳥 | 飛行, 搜索 | [漂亮花田](../pokemon-habitat/#漂亮花田)<br>[高台草叢](../pokemon-habitat/#高台草叢) | -<br>- |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/018.png" > | 大比鳥 | 待定 |  |  |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/043.png" > | 走路草 | 栽培 | [綠色草叢](../pokemon-habitat/#綠色草叢) | 普通 |
-| <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/044.png" > | 臭臭花 | 栽培 | 南國風情 | 普通 |
+| <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/044.png" > | 臭臭花 | 栽培 | [熱帶風情](../pokemon-habitat/#熱帶風情) | 普通 |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/045.png" > | 毒毒花 | 栽培, 撿拾垃圾 | [吉利休息處](../pokemon-habitat/#吉利休息處) | - |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/182.png" > | 美麗花 | 栽培, 炒熱氣氛 | [吉利休息處](../pokemon-habitat/#吉利休息處) | - |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/046.png" > | 派拉斯 | 搜索 | [高台花田](../pokemon-habitat/#高台花田)<br>[花園](../pokemon-habitat/#花園) | 普通<br>普通 |
@@ -48,7 +44,7 @@ params:
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/082.png" > | 三合一磁怪 | 發電 | [垃圾桶聚集地](../pokemon-habitat/#垃圾桶聚集地) | 稀有 |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/462.png" > | 自動磁怪 | 發電, 回收 | [垃圾桶聚集地](../pokemon-habitat/#垃圾桶聚集地) |  |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/095.png" > | 大岩蛇 | 碾碎, 推土 | [沙沙作響的草叢](../pokemon-habitat/#沙沙作響的草叢) | 普通 |
-| <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/208.png" > | 大鋼蛇 | 碾碎, 推土 | 喀噠喀噠鋼骨工程 | - |
+| <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/208.png" > | 大鋼蛇 | 碾碎, 推土 | [叮叮鐺鐺鐵建築](../pokemon-habitat/#叮叮鐺鐺鐵建築) | - |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/104.png" > | 卡拉卡拉 | 建造 | [被花包圍的墳墓](../pokemon-habitat/#被花包圍的墳墓) | 普通 |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/105.png" > | 嘎啦嘎啦 | 建造 | [被花包圍的墳墓](../pokemon-habitat/#被花包圍的墳墓) | 稀有 |
 | <img src="https://img.gamewith.jp/article_tools/pocoapokemon/gacha/236.png" > | 愛打架 | 交易 | [修行瀑布](../pokemon-habitat/#修行瀑布) | 普通 |

@@ -941,7 +941,7 @@ params:
 ![棲息地 No.117](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_117.png)
 
 - **所需素材**：鐵樑或鐵柱 ×3、獨輪手推車 ×1、挖掘工具 ×1、沙包 ×1
-- **出現寶可夢**：鋼鐵蛇、怪力
+- **出現寶可夢**：大鋼蛇、怪力
 
 ---
 
