@@ -561,7 +561,7 @@ params:
 ![棲息地 No.069](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_69.png)
 
 - **所需素材**：木製鳥屋 ×1、盤子上的食物 ×1、桌子（任意）×1
-- **出現寶可夢**：火稚雞、鬥焰雞
+- **出現寶可夢**：火稚雞、火焰雞
 
 ---
 
@@ -608,7 +608,7 @@ params:
 ![棲息地 No.075](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_75.png)
 
 - **所需素材**：衣櫃（任意）×1、大鏡子 ×1
-- **出現寶可夢**：小包
+- **出現寶可夢**：布撥
 
 ---
 
@@ -873,11 +873,11 @@ params:
 
 ---
 
-### No.109 生氣蓬勃的浮草 {#生氣蓬勃的浮草}
+### No.109 輕飄飄水窪 {#輕飄飄水窪}
 ![棲息地 No.109](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_109.png)
 
 - **所需素材**：浮草 ×4、水 ×2
-- **出現寶可夢**：圓荷蛙、蓬蓬草帽椰
+- **出現寶可夢**：蓮帽小童、蓮帽小童
 
 ---
 
@@ -949,7 +949,7 @@ params:
 ![棲息地 No.118](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_118.png)
 
 - **所需素材**：石筍 ×1、青苔 ×4、木箱 ×1、燈籠 ×1
-- **出現寶可夢**：晶岩蟲、晶岩花
+- **出現寶可夢**：晶光芽、晶光花
 
 ---
 
@@ -997,7 +997,7 @@ params:
 ![棲息地 No.124](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_124.png)
 
 - **所需素材**：平板 ×1、紙杯 ×1
-- **出現寶可夢**：毒電寶寶
+- **出現寶可夢**：毒電嬰
 
 ---
 
@@ -1005,7 +1005,7 @@ params:
 ![棲息地 No.125](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_125.png)
 
 - **所需素材**：棲架 ×1、麥克風架 ×1
-- **出現寶可夢**：大魔鴉、聊天鸚鵡
+- **出現寶可夢**：烏鴉頭頭、聒噪鳥
 
 ---
 
@@ -1020,7 +1020,7 @@ params:
 ![棲息地 No.127](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_127.png)
 
 - **所需素材**：沙包 ×1、CD播放器 ×1、桌子（任意）×1
-- **出現寶可夢**：勁膀力士、利歐路、路卡利歐
+- **出現寶可夢**：豪力、利歐路、路卡利歐
 
 ---
 
@@ -1031,11 +1031,11 @@ params:
 
 ---
 
-### No.129 小型博物館 {#小型博物館}
+### No.129 迷你博物館 {#迷你博物館}
 ![棲息地 No.129](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_129.png)
 
 - **所需素材**：展示台 ×1、立柱（任意）×3、大型古代遺物 ×1
-- **出現寶可夢**：風速狗
+- **出現寶可夢**：風速狗、索財靈
 
 ---
 
@@ -1097,7 +1097,7 @@ params:
 ![棲息地 No.137](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_137.png)
 
 - **所需素材**：粉草 ×4
-- **出現寶可夢**：飛魚龍、震動蟲、沙漠蜻蜓、龍捲雲、骷髏怪
+- **出現寶可夢**：大顎蟻、超音波幼蟲、沙漠蜻蜓、青綿鳥、夜巡靈
 
 ---
 
@@ -1121,7 +1121,7 @@ params:
 ![棲息地 No.140](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_140.png)
 
 - **所需素材**：粉草 ×4、高處 ×1
-- **出現寶可夢**：蒼騎士雀、鋼鐵鴉騎士、電鵜鶘、千伏電鵜鶘
+- **出現寶可夢**：藍鴉、電海燕
 
 ---
 
