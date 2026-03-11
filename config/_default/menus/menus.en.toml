@@ -18,7 +18,7 @@
 
 [[main]]
   name = "攻略"
-  url = "/docs/guides/pokemon-habitat/"
+  url = "/docs/guides/pokopia-habitat/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 

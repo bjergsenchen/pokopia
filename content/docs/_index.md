@@ -16,5 +16,5 @@ params:
   section:
     title: "攻略總覽"
     iconName: "book"
-    startUrl: "/docs/guides/pokemon-habitat/"
+    startUrl: "/docs/guides/pokopia-habitat/"
 ---
