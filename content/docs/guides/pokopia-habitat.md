@@ -355,6 +355,7 @@ params:
 ---
 
 ### No.043（資料待補） {#No043}
+![棲息地 No.043](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_43.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -370,6 +371,7 @@ params:
 ---
 
 ### No.045（資料待補） {#No045}
+![棲息地 No.045](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_45.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -393,14 +395,14 @@ params:
 ---
 
 ### No.048（資料待補） {#No048}
-
+![棲息地 No.048](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_48.png)
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
 
 ---
 
 ### No.049（資料待補） {#No049}
-
+![棲息地 No.049](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_49.png)
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
 
@@ -551,6 +553,7 @@ params:
 ---
 
 ### No.068（資料待補） {#No068}
+![棲息地 No.068](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_68.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -590,6 +593,7 @@ params:
 ---
 
 ### No.073（資料待補） {#No073}
+![棲息地 No.073](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_73.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -613,6 +617,7 @@ params:
 ---
 
 ### No.076（資料待補） {#No076}
+![棲息地 No.076](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_76.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -740,6 +745,7 @@ params:
 ---
 
 ### No.092（資料待補） {#No092}
+![棲息地 No.092](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_92.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -763,6 +769,7 @@ params:
 ---
 
 ### No.095（資料待補） {#No095}
+![棲息地 No.095](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_95.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1010,6 +1017,7 @@ params:
 ---
 
 ### No.126（資料待補） {#No126}
+![棲息地 No.126](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_126.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1025,7 +1033,7 @@ params:
 ---
 
 ### No.128（資料待補） {#No128}
-
+![棲息地 No.128](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_128.png)
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
 
@@ -1080,6 +1088,7 @@ params:
 ---
 
 ### No.135（資料待補） {#No135}
+![棲息地 No.135](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_135.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1087,6 +1096,7 @@ params:
 ---
 
 ### No.136（資料待補） {#No136}
+![棲息地 No.136](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_136.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1166,6 +1176,7 @@ params:
 ---
 
 ### No.146（資料待補） {#No146}
+![棲息地 No.146](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_146.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1189,6 +1200,7 @@ params:
 ---
 
 ### No.149（資料待補） {#No149}
+![棲息地 No.149](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_149.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1212,6 +1224,7 @@ params:
 ---
 
 ### No.152（資料待補） {#No152}
+![棲息地 No.152](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_152.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1227,6 +1240,7 @@ params:
 ---
 
 ### No.154（資料待補） {#No154}
+![棲息地 No.154](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_154.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1281,6 +1295,7 @@ params:
 ---
 
 ### No.161（資料待補） {#No161}
+![棲息地 No.161](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_161.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1288,6 +1303,7 @@ params:
 ---
 
 ### No.162（資料待補） {#No162}
+![棲息地 No.162](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_162.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1455,6 +1471,7 @@ params:
 ---
 
 ### No.183（資料待補） {#No183}
+![棲息地 No.183](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_183.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1502,6 +1519,7 @@ params:
 ---
 
 ### No.189（資料待補） {#No189}
+![棲息地 No.189](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_189.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
@@ -1525,6 +1543,7 @@ params:
 ---
 
 ### No.192（資料待補） {#No192}
+![棲息地 No.192](https://img.gamewith.jp/article_tools/pocoapokemon/gacha/habitat_192.png)
 
 - **所需素材**：資料待補
 - **出現寶可夢**：資料待補
